@@ -3,6 +3,8 @@
 ## 🚀 Über Mich
 Als leidenschaftlicher Entwickler und KI-Enthusiast arbeite ich an verschiedenen Projekten im Bereich Machine Learning, Audio Processing und Softwareentwicklung. Mein Fokus liegt besonders auf der Entwicklung von KI-gestützten Audiotools und der Integration von Machine Learning in alltägliche Anwendungen.
 
+🌐 [Besuche mein Portfolio](https://starbuck100.github.io)
+
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programmierung
